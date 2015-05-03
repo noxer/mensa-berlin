@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/item_next_week"
+        android:title="@string/next_week"
+        android:icon="@drawable/ic_next_week"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/item_prev_week"
+        android:title="@string/prev_week"
+        android:icon="@drawable/ic_prev_week"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+</menu>

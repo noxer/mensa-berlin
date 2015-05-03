@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mensa FU II</string>
+
+    <string name="cat_starters">Starters</string>
+    <string name="cat_salads">Salads</string>
+    <string name="cat_soups">Soups</string>
+    <string name="cat_specials">Specials</string>
+    <string name="cat_mains">Food</string>
+    <string name="cat_sides">Sides</string>
+    <string name="cat_desserts">Desserts</string>
+
+    <string name="dish_empty">No Entries found</string>
+
+    <string name="loading_mensa">Loading mensa</string>
+    <string name="loading_week">Loading week plan</string>
+
+    <string name="error_loading_mensa">Unable to load mensa</string>
+    <string name="error_loading_day">[not available]</string>
+
+    <string name="today">(today)</string>
+    <string name="next_week">Next week</string>
+    <string name="prev_week">Current week</string>
+    <string name="title_activity_config">ConfigActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

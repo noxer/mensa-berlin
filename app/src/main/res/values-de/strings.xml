@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mensa FU II</string>
+
+    <string name="cat_starters">Vorspeisen</string>
+    <string name="cat_salads">Salate</string>
+    <string name="cat_soups">Suppen</string>
+    <string name="cat_specials">Spezial</string>
+    <string name="cat_mains">Hauptspeisen</string>
+    <string name="cat_sides">Beilagen</string>
+    <string name="cat_desserts">Nachtische</string>
+
+    <string name="dish_empty">Keine Einträge gefunden</string>
+
+    <string name="loading_mensa">Mensa wird geladen</string>
+    <string name="loading_week">Wochenplan wird geladen</string>
+
+    <string name="error_loading_mensa">Die Mensa konnte nicht geladen werden</string>
+    <string name="error_loading_day">[nicht verfügbar]</string>
+
+    <string name="today">(heute)</string>
+    <string name="next_week">Nächste Woche</string>
+    <string name="prev_week">Diese Woche</string>
+</resources>
